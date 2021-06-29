@@ -1,0 +1,1 @@
+This directory conatains bbasic shell permission
