@@ -1,0 +1,1 @@
+This directory contain scripts for shell redirections
